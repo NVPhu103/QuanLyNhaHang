@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_19110430_NguyenVanPhu_Day01.AddContact" Collapsed="true">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAAgAABAGCAAFAAAAGAAAgCAAAABbBhCEABAAQAAIA=</HashCode>
+      <FileName>Contact\AddContact.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.Contact">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAgACACAAAAAAAQAAAAAEAAAAAAAAgAAAAAgAAEA=</HashCode>
+      <FileName>Contact\Contact.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.EditContact" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAgAAABAGCAAFAAAAGAAAgDAAAARTEhQEABAAAAAIA=</HashCode>
+      <FileName>Contact\EditContact.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.ShowContactForm" Collapsed="true">
+    <Position X="5.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAggAAAACBAEAAABAyAAAgCAAAABAAAAAAAAAAAgIA=</HashCode>
+      <FileName>Contact\ShowContactForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.ShowCourseOfContact" Collapsed="true">
+    <Position X="5.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABUAAAACEikEAAAAyIAAACAAAABAEACAAQAAAAQAA=</HashCode>
+      <FileName>Contact\ShowCourseOfContact.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.AddCourse" Collapsed="true">
+    <Position X="16.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABIAEQABACAAAAEAACiABgACEAAAAAAAAAAEAAAQAgA=</HashCode>
+      <FileName>Course\AddCourse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.Course">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMAAAAAAAAAAAAAAAJAAAAAEAAAAAAIAAAAAIAAAAIQ=</HashCode>
+      <FileName>Course\Course.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.EditCourse" Collapsed="true">
+    <Position X="16.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAMYEAACAAgAGBACCABBAGEAAAgAAAAAAAAAABACA=</HashCode>
+      <FileName>Course\EditCourse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.ManageCoursesForm" Collapsed="true">
+    <Position X="16.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IApBkQABGCBAkgEAAijBAoAHgYAAAAAACBAAAAAAAAA=</HashCode>
+      <FileName>Course\ManageCoursesForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.PrintCourse" Collapsed="true">
+    <Position X="16.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAgADQAwAAIAACAAAACACABgAAAAEAAAIAECCA=</HashCode>
+      <FileName>Course\PrintCourse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.RemoveCourse" Collapsed="true">
+    <Position X="16.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAECAAgAAgAACAAAACAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Course\RemoveCourse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.Global" Collapsed="true">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAACAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Global.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.Group">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAIAAAAAAAIAAAAAEAAAAAAQAAAAABAAAAFA=</HashCode>
+      <FileName>Group\Group.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.Lecturer">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAgAAAAAAAECAAEAAAEAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Lecturer\Lecturer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.LecturerForCourse" Collapsed="true">
+    <Position X="11" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAgAAICAggBBAAACAAAhGAAAAAIAAAEAAIAQSAAA=</HashCode>
+      <FileName>Lecturer\LecturerForCourse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.EditUserForm" Collapsed="true">
+    <Position X="7.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAkBACAAABAAAAiABAhCEAAAAQBAQUAQAAIAAQA=</HashCode>
+      <FileName>MainHR\EditUserForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.MainForm" Collapsed="true">
+    <Position X="12.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QIAZAZgAQChgABoMiADREggGAEJABBAAoCgYAJBACAA=</HashCode>
+      <FileName>MainHR\MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.Form1" Collapsed="true">
+    <Position X="12.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wgABAAABACAAIBEAIASAAFACAAAACgAAAAQCAAFAIAA=</HashCode>
+      <FileName>MainStudent\Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.Main" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AcFsKSAEgHIAgBAAAUiABACiACAADABhkAAEAAJAoIQ=</HashCode>
+      <FileName>MainStudent\Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.MyDB" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAABAQAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainStudent\MyDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.Register" Collapsed="true">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAkBECAAABAAAACABAhCEACAAQBgAQAAAgIAAAA=</HashCode>
+      <FileName>MainStudent\Register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.User">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAQAAAIAAAAAAAAEAAEEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainStudent\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.Program" Collapsed="true">
+    <Position X="12.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.QLSVDBDataSet" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQwIAAAJABAAAQAAAAAgCQBgAAAAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.QLSVDBDataSet1" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQwIAAAJABAAAQAAAAAgCQBgAAAAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.QLSVDBDataSet2" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQwIAAAJABAAAQAAAAAgCQBgAAAAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.QLSVDBDataSet3" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAEJABIAAQAAAAAgCQBgAAAABAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.Result">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAIEAAAAAAAAAAEAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Result\Result.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.ResultForm" Collapsed="true">
+    <Position X="14.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAQEAAACQEgEAADISBBAACECACgAAAAAFCAABOEAg=</HashCode>
+      <FileName>Result\ResultForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.StaticResult" Collapsed="true">
+    <Position X="14.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAEAAAACQQhFAABIaIQgACAAIAAAAAgIAQAIBZAAA=</HashCode>
+      <FileName>Result\StaticResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.AddScore" Collapsed="true">
+    <Position X="18" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAYggACAAgEEAAAiIhggCUAAAAAACAACIUIARAAA=</HashCode>
+      <FileName>Score\AddScore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.AvgScore" Collapsed="true">
+    <Position X="18" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAIiIAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Score\AvgScore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.ManageScore" Collapsed="true">
+    <Position X="18" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gEBESYCBELAIgEkCAACJwgACQABAAAACABAoIAABgAA=</HashCode>
+      <FileName>Score\ManageScore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.RemoveScore" Collapsed="true">
+    <Position X="18" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAACAAQACAAAAIAAACIAAACAQAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Score\RemoveScore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.Score">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAJAAAAEgAAAIAAAEAAAAABCAAAAAAAAAABA=</HashCode>
+      <FileName>Score\Score.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.AddStudentForm" Collapsed="true">
+    <Position X="19.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAUABQCAAABAAAACAgAwCAIAABQACAACAIAACAAg=</HashCode>
+      <FileName>Student\AddStudentForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.ManageStudentForm" Collapsed="true">
+    <Position X="19.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QABAAkABEiBAglAACAiDggwCAAgCBAACACECIAQiAAg=</HashCode>
+      <FileName>Student\ManageStudentForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.PrintStudent" Collapsed="true">
+    <Position X="19.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAgArACAjACCQDAAAiiQCSEBCIAICCAUIAUAAU=</HashCode>
+      <FileName>Student\PrintStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.StaticsForm" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgAAAAAAACALAAAAIICACAICAAADAAAAAEIAAkAAAAA=</HashCode>
+      <FileName>Student\StaticsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.Student">
+    <Position X="19.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAEQAAAAAAhAIAEAAAQAAAAAQAAAABACAA=</HashCode>
+      <FileName>Student\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.StudentListForm" Collapsed="true">
+    <Position X="19.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAgACEAAEAAAACEAggCAAgAAMAAAAAEAAAAAAA=</HashCode>
+      <FileName>Student\StudentListForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.UpdateDeleteStudentForm" Collapsed="true">
+    <Position X="19.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAwIABACAAgECCAAiIBBgGAAAMEQBCABAAJAJAkAA=</HashCode>
+      <FileName>Student\UpdateDeleteStudentForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAEIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAARAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.QLSVDBDataSetTableAdapters.StudentTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.QLSVDBDataSetTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABAJAEBAAAAMAAgABACgAAAAAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.QLSVDBDataSet1TableAdapters.StudentTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.QLSVDBDataSet1TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABAJAEBAAAAMAAgABACgAAAAAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.QLSVDBDataSet2TableAdapters.StudentTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.QLSVDBDataSet2TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABAJAEBAAAAMAAgABACgAAAAAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.QLSVDBDataSet3TableAdapters.CourseTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAACAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19110430_NguyenVanPhu_Day01.QLSVDBDataSet3TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAAAAMAAiAAACgAAAAAQAAAAABAY=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
